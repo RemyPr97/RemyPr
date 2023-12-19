@@ -1,3 +1,5 @@
+Hi 🙌
+
 I am a 26-year-old full-stack web developer, driven by a passion for technology and a constant enthusiasm for facing new challenges. My career started in commerce, notably at @CashExpressGroup, but my interest in technology led me to a change in direction. I trained in web development at Le Wagon Paris, an experience that intensified my eagerness to learn and improve.
 
 Always seeking enhancement, I have expanded my skills through personal projects, which can be seen on my GitHub (github.com/RemyPr97). To continue this trajectory, I completed a course at Aston IT School, focusing on Angular and Java.
